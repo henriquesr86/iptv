@@ -1,11 +1,809 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
-  <channel id="TV Gazeta">
-    <display-name lang="pt">TV Gazeta</display-name>
-    <url>http://www.tvmagazine.com.br</url>
+  <channel id="Example">
+    <display-name lang="en">Example</display-name>
+    <url>http://www.dummy</url>
   </channel>
-  <channel id="BAND">
-    <display-name lang="pt">BAND</display-name>
-    <url>http://www.tvmagazine.com.br</url>
+  <channel id="Viva">
+    <display-name lang="pt">Viva</display-name>
+    <url>http://www.clarotv.com.br</url>
   </channel>
+  <programme start="20190725000000 +0100" stop="20190725235900 +0100" channel="Example">
+    <title lang="en">dummy program - Full Day Show</title>
+    <desc lang="en">Created by WebGrab+Plus, your favorite TVguide Grabber(n)</desc>
+  </programme>
+  <programme start="20190726000000 +0100" stop="20190726235900 +0100" channel="Example">
+    <title lang="en">dummy program - Full Day Show</title>
+    <desc lang="en">Created by WebGrab+Plus, your favorite TVguide Grabber(n)</desc>
+  </programme>
+  <programme start="20190727000000 +0100" stop="20190727235900 +0100" channel="Example">
+    <title lang="en">dummy program - Full Day Show</title>
+    <desc lang="en">Created by WebGrab+Plus, your favorite TVguide Grabber(n)</desc>
+  </programme>
+  <programme start="20190728000000 +0100" stop="20190728235900 +0100" channel="Example">
+    <title lang="en">dummy program - Full Day Show</title>
+    <desc lang="en">Created by WebGrab+Plus, your favorite TVguide Grabber(n)</desc>
+  </programme>
+  <programme start="20190729000000 +0100" stop="20190729235900 +0100" channel="Example">
+    <title lang="en">dummy program - Full Day Show</title>
+    <desc lang="en">Created by WebGrab+Plus, your favorite TVguide Grabber(n)</desc>
+  </programme>
+  <programme start="20190730000000 +0100" stop="20190730235900 +0100" channel="Example">
+    <title lang="en">dummy program - Full Day Show</title>
+    <desc lang="en">Created by WebGrab+Plus, your favorite TVguide Grabber(n)</desc>
+  </programme>
+  <programme start="20190731000000 +0100" stop="20190731235900 +0100" channel="Example">
+    <title lang="en">dummy program - Full Day Show</title>
+    <desc lang="en">Created by WebGrab+Plus, your favorite TVguide Grabber(n)</desc>
+  </programme>
+  <programme start="20190725010000 -0300" stop="20190725060000 -0300" channel="Viva">
+    <title lang="pt">Leilão da Marilda</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190725060000 -0300" stop="20190725061500 -0300" channel="Viva">
+    <title lang="pt">Agro Forte Brasil Forte</title>
+    <desc lang="pt">Uma revista dinâmica e completa, a informação com credibilidade e tudo que o produtor precisa saber. Sobe som curto da inovação tecnológica em máquinas e serviços, às mais recentes técnicas de manejo e cultivo(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190725061500 -0300" stop="20190725063000 -0300" channel="Viva">
+    <title lang="pt">Band News</title>
+    <desc lang="pt">As principais noticias da hora com a equipe do canal especializado em jornalismo, 24 horas por dia(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190725063000 -0300" stop="20190725070000 -0300" channel="Viva">
+    <title lang="pt">Terraviva DBO na TV</title>
+    <desc lang="pt">Um programa com foco na pecuária de corte e de leite. Análises de notícias e situações de relevância para o setor, entrevistas com personalidades da área, além de informações sobre preços e tendências(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190725070000 -0300" stop="20190725073000 -0300" channel="Viva">
+    <title lang="pt">AgroBand</title>
+    <desc lang="pt">Programa Local(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190725073000 -0300" stop="20190725075500 -0300" channel="Viva">
+    <title lang="pt">Jornal Terraviva</title>
+    <desc lang="pt">O principal telejornal do agronegócio brasileiro apresenta os principais fatos do dia do setor agropecuário, as notícias atualizadas, a previsão do tempo, boletins ao vivo dos principais eventos e leilões(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190725075500 -0300" stop="20190725080000 -0300" channel="Viva">
+    <title lang="pt">Pecuária em Alta</title>
+    <desc lang="pt">O programa apresenta as melhores opções de negócios aos criadores(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190725080000 -0300" stop="20190725100000 -0300" channel="Viva">
+    <title lang="pt">Bem da Terra</title>
+    <desc lang="pt">Diálogo descontraído sobre o universo agropecuário. Comportamento, dicas de saúde, gestão, entretenimento e informação sobre os principais fatos do dia compõem o cardápio do Bem da Terra(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190725100000 -0300" stop="20190725110000 -0300" channel="Viva">
+    <title lang="pt">Coração de Pescador</title>
+    <desc lang="pt">Coração de pescador leva até você mais informação sobre o mundo da pesca com muito mais emoção. Dicas de equipamento, locais de boa pesca e conhecimento sobre os peixes brasileiros(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190725110000 -0300" stop="20190725113000 -0300" channel="Viva">
+    <title lang="pt">AgroBand</title>
+    <desc lang="pt">Programa Local(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190725113000 -0300" stop="20190725130000 -0300" channel="Viva">
+    <title lang="pt">Dia Dia Rural</title>
+    <desc lang="pt">Programa de entrevistas, debates técnicos, boletins ao vivo dos maiores eventos do setor e as principais notícias do agronegócio no Brasil e no mundo(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190725130000 -0300" stop="20190725133000 -0300" channel="Viva">
+    <title lang="pt">Agrimercado</title>
+    <desc lang="pt">O mercado no meio do dia com apresentação e análises de Silmar César Müller. Cotações, comentários, bolsas internacionais e nacionais e mercado físico. Entrevistas ao vivo com corretores e analistas de mercado(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190725133000 -0300" stop="20190725140000 -0300" channel="Viva">
+    <title lang="pt">Cavalo Crioulo</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190725140000 -0300" stop="20190725143000 -0300" channel="Viva">
+    <title lang="pt">AgroBand</title>
+    <desc lang="pt">Programa Local(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190725143000 -0300" stop="20190725153000 -0300" channel="Viva">
+    <title lang="pt">Leilão da Marilda</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190725153000 -0300" stop="20190725160000 -0300" channel="Viva">
+    <title lang="pt">Coração de Pescador</title>
+    <desc lang="pt">Coração de pescador leva até você mais informação sobre o mundo da pesca com muito mais emoção. Dicas de equipamento, locais de boa pesca e conhecimento sobre os peixes brasileiros(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190725160000 -0300" stop="20190725190000 -0300" channel="Viva">
+    <title lang="pt">Jóias VIP</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <date>2015</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190725190000 -0300" stop="20190725193000 -0300" channel="Viva">
+    <title lang="pt">Jornal Terraviva</title>
+    <desc lang="pt">O principal telejornal do agronegócio brasileiro apresenta os principais fatos do dia do setor agropecuário, as notícias atualizadas, a previsão do tempo, boletins ao vivo dos principais eventos e leilões(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190725193000 -0300" stop="20190725195500 -0300" channel="Viva">
+    <title lang="pt">Terraviva DBO na TV</title>
+    <desc lang="pt">Um programa com foco na pecuária de corte e de leite. Análises de notícias e situações de relevância para o setor, entrevistas com personalidades da área, além de informações sobre preços e tendências(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190725195500 -0300" stop="20190725200000 -0300" channel="Viva">
+    <title lang="pt">Pecuária em Alta</title>
+    <desc lang="pt">O programa apresenta as melhores opções de negócios aos criadores(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190725200000 -0300" stop="20190725203500 -0300" channel="Viva">
+    <title lang="pt">Consultor Terraviva</title>
+    <desc lang="pt">Consultor Terraviva oferece o mais completo conjunto de análises, notícias, cotações e previsões de mercado, facilitando a gestão dos negócios e minimizando riscos(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190725203500 -0300" stop="20190726010000 -0300" channel="Viva">
+    <title lang="pt">Jóias VIP</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <date>2015</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190726010000 -0300" stop="20190726060000 -0300" channel="Viva">
+    <title lang="pt">Leilão da Marilda</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190726060000 -0300" stop="20190726063000 -0300" channel="Viva">
+    <title lang="pt">Band News</title>
+    <desc lang="pt">As principais noticias da hora com a equipe do canal especializado em jornalismo, 24 horas por dia(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190726063000 -0300" stop="20190726070000 -0300" channel="Viva">
+    <title lang="pt">Terraviva DBO na TV</title>
+    <desc lang="pt">Um programa com foco na pecuária de corte e de leite. Análises de notícias e situações de relevância para o setor, entrevistas com personalidades da área, além de informações sobre preços e tendências(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190726070000 -0300" stop="20190726073000 -0300" channel="Viva">
+    <title lang="pt">Minas Rural</title>
+    <desc lang="pt">Um programa que mostra como o trabalho de assistência técnica e extensão rural realizado pela Emater-MG tem contribuído para o desenvolvimento no campo(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190726073000 -0300" stop="20190726080000 -0300" channel="Viva">
+    <title lang="pt">Jornal Terraviva</title>
+    <desc lang="pt">O principal telejornal do agronegócio brasileiro apresenta os principais fatos do dia do setor agropecuário, as notícias atualizadas, a previsão do tempo, boletins ao vivo dos principais eventos e leilões(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190726080000 -0300" stop="20190726100000 -0300" channel="Viva">
+    <title lang="pt">Bem da Terra</title>
+    <desc lang="pt">Diálogo descontraído sobre o universo agropecuário. Comportamento, dicas de saúde, gestão, entretenimento e informação sobre os principais fatos do dia compõem o cardápio do Bem da Terra(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190726100000 -0300" stop="20190726110000 -0300" channel="Viva">
+    <title lang="pt">Coração de Pescador</title>
+    <desc lang="pt">Coração de pescador leva até você mais informação sobre o mundo da pesca com muito mais emoção. Dicas de equipamento, locais de boa pesca e conhecimento sobre os peixes brasileiros(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190726110000 -0300" stop="20190726113000 -0300" channel="Viva">
+    <title lang="pt">Sc Agricultura</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190726113000 -0300" stop="20190726130000 -0300" channel="Viva">
+    <title lang="pt">Dia Dia Rural</title>
+    <desc lang="pt">Programa de entrevistas, debates técnicos, boletins ao vivo dos maiores eventos do setor e as principais notícias do agronegócio no Brasil e no mundo(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190726130000 -0300" stop="20190726133000 -0300" channel="Viva">
+    <title lang="pt">Agrimercado</title>
+    <desc lang="pt">O mercado no meio do dia com apresentação e análises de Silmar César Müller. Cotações, comentários, bolsas internacionais e nacionais e mercado físico. Entrevistas ao vivo com corretores e analistas de mercado(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190726133000 -0300" stop="20190726143000 -0300" channel="Viva">
+    <title lang="pt">Coração de Pescador</title>
+    <desc lang="pt">Coração de pescador leva até você mais informação sobre o mundo da pesca com muito mais emoção. Dicas de equipamento, locais de boa pesca e conhecimento sobre os peixes brasileiros(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190726143000 -0300" stop="20190726153000 -0300" channel="Viva">
+    <title lang="pt">Leilão da Marilda</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190726153000 -0300" stop="20190726160000 -0300" channel="Viva">
+    <title lang="pt">Sc Agricultura</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190726160000 -0300" stop="20190726190000 -0300" channel="Viva">
+    <title lang="pt">Jóias VIP</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <date>2015</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190726190000 -0300" stop="20190726193000 -0300" channel="Viva">
+    <title lang="pt">Jornal Terraviva</title>
+    <desc lang="pt">O principal telejornal do agronegócio brasileiro apresenta os principais fatos do dia do setor agropecuário, as notícias atualizadas, a previsão do tempo, boletins ao vivo dos principais eventos e leilões(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190726193000 -0300" stop="20190726195500 -0300" channel="Viva">
+    <title lang="pt">Terraviva DBO na TV</title>
+    <desc lang="pt">Um programa com foco na pecuária de corte e de leite. Análises de notícias e situações de relevância para o setor, entrevistas com personalidades da área, além de informações sobre preços e tendências(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190726195500 -0300" stop="20190726200000 -0300" channel="Viva">
+    <title lang="pt">Pecuária em Alta</title>
+    <desc lang="pt">O programa apresenta as melhores opções de negócios aos criadores(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190726200000 -0300" stop="20190726203500 -0300" channel="Viva">
+    <title lang="pt">Consultor Terraviva</title>
+    <desc lang="pt">Consultor Terraviva oferece o mais completo conjunto de análises, notícias, cotações e previsões de mercado, facilitando a gestão dos negócios e minimizando riscos(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190726203500 -0300" stop="20190727010000 -0300" channel="Viva">
+    <title lang="pt">Jóias VIP</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <date>2015</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190727010000 -0300" stop="20190727060000 -0300" channel="Viva">
+    <title lang="pt">Leilão da Marilda</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190727060000 -0300" stop="20190727063000 -0300" channel="Viva">
+    <title lang="pt">Ação Sustentável</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190727063000 -0300" stop="20190727070000 -0300" channel="Viva">
+    <title lang="pt">Minas Rural</title>
+    <desc lang="pt">Um programa que mostra como o trabalho de assistência técnica e extensão rural realizado pela Emater-MG tem contribuído para o desenvolvimento no campo(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190727070000 -0300" stop="20190727073000 -0300" channel="Viva">
+    <title lang="pt">Jornal Terraviva</title>
+    <desc lang="pt">O principal telejornal do agronegócio brasileiro apresenta os principais fatos do dia do setor agropecuário, as notícias atualizadas, a previsão do tempo, boletins ao vivo dos principais eventos e leilões(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190727073000 -0300" stop="20190727080000 -0300" channel="Viva">
+    <title lang="pt">AgroBand</title>
+    <desc lang="pt">Programa Local(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190727080000 -0300" stop="20190727090000 -0300" channel="Viva">
+    <title lang="pt">Coração de Pescador</title>
+    <desc lang="pt">Coração de pescador leva até você mais informação sobre o mundo da pesca com muito mais emoção. Dicas de equipamento, locais de boa pesca e conhecimento sobre os peixes brasileiros(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190727090000 -0300" stop="20190727093000 -0300" channel="Viva">
+    <title lang="pt">Ação Sustentável</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190727093000 -0300" stop="20190727100000 -0300" channel="Viva">
+    <title lang="pt">Minas Rural</title>
+    <desc lang="pt">Um programa que mostra como o trabalho de assistência técnica e extensão rural realizado pela Emater-MG tem contribuído para o desenvolvimento no campo(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190727100000 -0300" stop="20190727103000 -0300" channel="Viva">
+    <title lang="pt">Sc Agricultura</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190727103000 -0300" stop="20190727113000 -0300" channel="Viva">
+    <title lang="pt">Canal Livre</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190727113000 -0300" stop="20190727123000 -0300" channel="Viva">
+    <title lang="pt">PBR</title>
+    <desc lang="pt">Cobertura das etapas do campeonato brasileiro da Professional Bull Riders(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190727123000 -0300" stop="20190727130000 -0300" channel="Viva">
+    <title lang="pt">Ação Sustentável</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190727130000 -0300" stop="20190727140000 -0300" channel="Viva">
+    <title lang="pt">Coração de Pescador</title>
+    <desc lang="pt">Coração de pescador leva até você mais informação sobre o mundo da pesca com muito mais emoção. Dicas de equipamento, locais de boa pesca e conhecimento sobre os peixes brasileiros(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190727140000 -0300" stop="20190727200000 -0300" channel="Viva">
+    <title lang="pt">Leilão Virtual Cv</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190727200000 -0300" stop="20190727210000 -0300" channel="Viva">
+    <title lang="pt">PBR</title>
+    <desc lang="pt">Cobertura das etapas do campeonato brasileiro da Professional Bull Riders(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190727210000 -0300" stop="20190728010000 -0300" channel="Viva">
+    <title lang="pt">Jóias VIP</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <date>2015</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190728010000 -0300" stop="20190728060000 -0300" channel="Viva">
+    <title lang="pt">Leilão da Marilda</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190728060000 -0300" stop="20190728070000 -0300" channel="Viva">
+    <title lang="pt">PBR</title>
+    <desc lang="pt">Cobertura das etapas do campeonato brasileiro da Professional Bull Riders(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190728070000 -0300" stop="20190728080000 -0300" channel="Viva">
+    <title lang="pt">Coração de Pescador</title>
+    <desc lang="pt">Coração de pescador leva até você mais informação sobre o mundo da pesca com muito mais emoção. Dicas de equipamento, locais de boa pesca e conhecimento sobre os peixes brasileiros(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190728080000 -0300" stop="20190728083000 -0300" channel="Viva">
+    <title lang="pt">Sc Agricultura</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190728083000 -0300" stop="20190728090000 -0300" channel="Viva">
+    <title lang="pt">AgroBand</title>
+    <desc lang="pt">Programa Local(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190728090000 -0300" stop="20190728093000 -0300" channel="Viva">
+    <title lang="pt">Agro Forte Brasil Forte</title>
+    <desc lang="pt">Uma revista dinâmica e completa, a informação com credibilidade e tudo que o produtor precisa saber. Sobe som curto da inovação tecnológica em máquinas e serviços, às mais recentes técnicas de manejo e cultivo(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190728093000 -0300" stop="20190728140000 -0300" channel="Viva">
+    <title lang="pt">Central de Negócios</title>
+    <desc lang="pt">Empreendedorismo e orientação para aqueles que desenvolvem negócios(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190728140000 -0300" stop="20190728200000 -0300" channel="Viva">
+    <title lang="pt">Leilão OB Delivery</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190728200000 -0300" stop="20190728203000 -0300" channel="Viva">
+    <title lang="pt">Cavalo Crioulo</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190728203000 -0300" stop="20190728210000 -0300" channel="Viva">
+    <title lang="pt">Ação Sustentável</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190728210000 -0300" stop="20190728220000 -0300" channel="Viva">
+    <title lang="pt">PBR</title>
+    <desc lang="pt">Cobertura das etapas do campeonato brasileiro da Professional Bull Riders(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190728220000 -0300" stop="20190728230000 -0300" channel="Viva">
+    <title lang="pt">Coração de Pescador</title>
+    <desc lang="pt">Coração de pescador leva até você mais informação sobre o mundo da pesca com muito mais emoção. Dicas de equipamento, locais de boa pesca e conhecimento sobre os peixes brasileiros(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190728230000 -0300" stop="20190729000000 -0300" channel="Viva">
+    <title lang="pt">Canal Livre</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190729000000 -0300" stop="20190729060000 -0300" channel="Viva">
+    <title lang="pt">Leilão da Marilda</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190729060000 -0300" stop="20190729063000 -0300" channel="Viva">
+    <title lang="pt">Band News</title>
+    <desc lang="pt">As principais noticias da hora com a equipe do canal especializado em jornalismo, 24 horas por dia(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190729063000 -0300" stop="20190729070000 -0300" channel="Viva">
+    <title lang="pt">Terraviva DBO na TV</title>
+    <desc lang="pt">Um programa com foco na pecuária de corte e de leite. Análises de notícias e situações de relevância para o setor, entrevistas com personalidades da área, além de informações sobre preços e tendências(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190729070000 -0300" stop="20190729073000 -0300" channel="Viva">
+    <title lang="pt">Band News</title>
+    <desc lang="pt">As principais noticias da hora com a equipe do canal especializado em jornalismo, 24 horas por dia(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190729073000 -0300" stop="20190729075500 -0300" channel="Viva">
+    <title lang="pt">Jornal Terraviva</title>
+    <desc lang="pt">O principal telejornal do agronegócio brasileiro apresenta os principais fatos do dia do setor agropecuário, as notícias atualizadas, a previsão do tempo, boletins ao vivo dos principais eventos e leilões(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190729075500 -0300" stop="20190729080000 -0300" channel="Viva">
+    <title lang="pt">Pecuária em Alta</title>
+    <desc lang="pt">O programa apresenta as melhores opções de negócios aos criadores(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190729080000 -0300" stop="20190729100000 -0300" channel="Viva">
+    <title lang="pt">Bem da Terra</title>
+    <desc lang="pt">Diálogo descontraído sobre o universo agropecuário. Comportamento, dicas de saúde, gestão, entretenimento e informação sobre os principais fatos do dia compõem o cardápio do Bem da Terra(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190729100000 -0300" stop="20190729110000 -0300" channel="Viva">
+    <title lang="pt">Canal Livre</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190729110000 -0300" stop="20190729113000 -0300" channel="Viva">
+    <title lang="pt">Coração de Pescador</title>
+    <desc lang="pt">Coração de pescador leva até você mais informação sobre o mundo da pesca com muito mais emoção. Dicas de equipamento, locais de boa pesca e conhecimento sobre os peixes brasileiros(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190729113000 -0300" stop="20190729130000 -0300" channel="Viva">
+    <title lang="pt">Dia Dia Rural</title>
+    <desc lang="pt">Programa de entrevistas, debates técnicos, boletins ao vivo dos maiores eventos do setor e as principais notícias do agronegócio no Brasil e no mundo(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190729130000 -0300" stop="20190729133000 -0300" channel="Viva">
+    <title lang="pt">Agrimercado</title>
+    <desc lang="pt">O mercado no meio do dia com apresentação e análises de Silmar César Müller. Cotações, comentários, bolsas internacionais e nacionais e mercado físico. Entrevistas ao vivo com corretores e analistas de mercado(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190729133000 -0300" stop="20190729143000 -0300" channel="Viva">
+    <title lang="pt">Canal Livre</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190729143000 -0300" stop="20190729153000 -0300" channel="Viva">
+    <title lang="pt">Leilão da Marilda</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190729153000 -0300" stop="20190729160000 -0300" channel="Viva">
+    <title lang="pt">Coração de Pescador</title>
+    <desc lang="pt">Coração de pescador leva até você mais informação sobre o mundo da pesca com muito mais emoção. Dicas de equipamento, locais de boa pesca e conhecimento sobre os peixes brasileiros(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190729160000 -0300" stop="20190729190000 -0300" channel="Viva">
+    <title lang="pt">Jóias VIP</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <date>2015</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190729190000 -0300" stop="20190729193000 -0300" channel="Viva">
+    <title lang="pt">Jornal Terraviva</title>
+    <desc lang="pt">O principal telejornal do agronegócio brasileiro apresenta os principais fatos do dia do setor agropecuário, as notícias atualizadas, a previsão do tempo, boletins ao vivo dos principais eventos e leilões(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190729193000 -0300" stop="20190729195500 -0300" channel="Viva">
+    <title lang="pt">Terraviva DBO na TV</title>
+    <desc lang="pt">Um programa com foco na pecuária de corte e de leite. Análises de notícias e situações de relevância para o setor, entrevistas com personalidades da área, além de informações sobre preços e tendências(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190729195500 -0300" stop="20190729200000 -0300" channel="Viva">
+    <title lang="pt">Pecuária em Alta</title>
+    <desc lang="pt">O programa apresenta as melhores opções de negócios aos criadores(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190729200000 -0300" stop="20190729203000 -0300" channel="Viva">
+    <title lang="pt">Consultor Terraviva</title>
+    <desc lang="pt">Consultor Terraviva oferece o mais completo conjunto de análises, notícias, cotações e previsões de mercado, facilitando a gestão dos negócios e minimizando riscos(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190729203000 -0300" stop="20190730010000 -0300" channel="Viva">
+    <title lang="pt">Leilão Virtual Produção Grendene</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190730010000 -0300" stop="20190730060000 -0300" channel="Viva">
+    <title lang="pt">Leilão da Marilda</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190730060000 -0300" stop="20190730063000 -0300" channel="Viva">
+    <title lang="pt">Band News</title>
+    <desc lang="pt">As principais noticias da hora com a equipe do canal especializado em jornalismo, 24 horas por dia(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190730063000 -0300" stop="20190730070000 -0300" channel="Viva">
+    <title lang="pt">Terraviva DBO na TV</title>
+    <desc lang="pt">Um programa com foco na pecuária de corte e de leite. Análises de notícias e situações de relevância para o setor, entrevistas com personalidades da área, além de informações sobre preços e tendências(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190730070000 -0300" stop="20190730073000 -0300" channel="Viva">
+    <title lang="pt">Cavalo Crioulo</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190730073000 -0300" stop="20190730075500 -0300" channel="Viva">
+    <title lang="pt">Jornal Terraviva</title>
+    <desc lang="pt">O principal telejornal do agronegócio brasileiro apresenta os principais fatos do dia do setor agropecuário, as notícias atualizadas, a previsão do tempo, boletins ao vivo dos principais eventos e leilões(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190730075500 -0300" stop="20190730080000 -0300" channel="Viva">
+    <title lang="pt">Pecuária em Alta</title>
+    <desc lang="pt">O programa apresenta as melhores opções de negócios aos criadores(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190730080000 -0300" stop="20190730100000 -0300" channel="Viva">
+    <title lang="pt">Bem da Terra</title>
+    <desc lang="pt">Diálogo descontraído sobre o universo agropecuário. Comportamento, dicas de saúde, gestão, entretenimento e informação sobre os principais fatos do dia compõem o cardápio do Bem da Terra(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190730100000 -0300" stop="20190730110000 -0300" channel="Viva">
+    <title lang="pt">PBR</title>
+    <desc lang="pt">Cobertura das etapas do campeonato brasileiro da Professional Bull Riders(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190730110000 -0300" stop="20190730114500 -0300" channel="Viva">
+    <title lang="pt">Minas Rural</title>
+    <desc lang="pt">Um programa que mostra como o trabalho de assistência técnica e extensão rural realizado pela Emater-MG tem contribuído para o desenvolvimento no campo(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190730114500 -0300" stop="20190730130000 -0300" channel="Viva">
+    <title lang="pt">Dia Dia Rural</title>
+    <desc lang="pt">Programa de entrevistas, debates técnicos, boletins ao vivo dos maiores eventos do setor e as principais notícias do agronegócio no Brasil e no mundo(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190730130000 -0300" stop="20190730133000 -0300" channel="Viva">
+    <title lang="pt">Agrimercado</title>
+    <desc lang="pt">O mercado no meio do dia com apresentação e análises de Silmar César Müller. Cotações, comentários, bolsas internacionais e nacionais e mercado físico. Entrevistas ao vivo com corretores e analistas de mercado(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190730133000 -0300" stop="20190730140000 -0300" channel="Viva">
+    <title lang="pt">Ação Sustentável</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190730140000 -0300" stop="20190730153000 -0300" channel="Viva">
+    <title lang="pt">Leilão da Marilda</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190730153000 -0300" stop="20190730160000 -0300" channel="Viva">
+    <title lang="pt">Minas Rural</title>
+    <desc lang="pt">Um programa que mostra como o trabalho de assistência técnica e extensão rural realizado pela Emater-MG tem contribuído para o desenvolvimento no campo(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190730160000 -0300" stop="20190730190000 -0300" channel="Viva">
+    <title lang="pt">Jóias VIP</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <date>2015</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190730190000 -0300" stop="20190730193000 -0300" channel="Viva">
+    <title lang="pt">Jornal Terraviva</title>
+    <desc lang="pt">O principal telejornal do agronegócio brasileiro apresenta os principais fatos do dia do setor agropecuário, as notícias atualizadas, a previsão do tempo, boletins ao vivo dos principais eventos e leilões(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190730193000 -0300" stop="20190730195500 -0300" channel="Viva">
+    <title lang="pt">Terraviva DBO na TV</title>
+    <desc lang="pt">Um programa com foco na pecuária de corte e de leite. Análises de notícias e situações de relevância para o setor, entrevistas com personalidades da área, além de informações sobre preços e tendências(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190730195500 -0300" stop="20190730200000 -0300" channel="Viva">
+    <title lang="pt">Pecuária em Alta</title>
+    <desc lang="pt">O programa apresenta as melhores opções de negócios aos criadores(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190730200000 -0300" stop="20190730203500 -0300" channel="Viva">
+    <title lang="pt">Consultor Terraviva</title>
+    <desc lang="pt">Consultor Terraviva oferece o mais completo conjunto de análises, notícias, cotações e previsões de mercado, facilitando a gestão dos negócios e minimizando riscos(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
 </tv>
